@@ -42,7 +42,7 @@ export default function Admin() {
       <div className="h-[94vh] flex">
         <div
           id="side-bar"
-          className=" w-[20%] bg-slate-800  flex flex-col items-center"
+          className=" w-[20%] bg-slate-800 h-[100%] flex flex-col items-center"
         >
           <div>
             <button className="bg-white flex items-center justify-center w-[240px] h-[40px] rounded-lg m-[20px]">
@@ -183,7 +183,7 @@ export default function Admin() {
                   </div>
                   <div className="flex justify-center flex-col">
                     <p>Total sales</p>
-                    <p>$2456</p>
+                    <p>$9999</p>
                   </div>
                 </li>
                 <li className="bg-white h-[60%] flex w-[20%] pl-[20px] gap-5 rounded-lg">
@@ -194,7 +194,7 @@ export default function Admin() {
                   </div>
                   <div className="flex justify-center flex-col">
                     <p>Total sales</p>
-                    <p>$2456</p>
+                    <p>$9999</p>
                   </div>
                 </li>
                 <li className="bg-white h-[60%] flex w-[20%] pl-[20px] gap-5 rounded-lg">
@@ -205,7 +205,7 @@ export default function Admin() {
                   </div>
                   <div className="flex justify-center flex-col">
                     <p>Total sales</p>
-                    <p>$2456</p>
+                    <p>$9999</p>
                   </div>
                 </li>
                 <li className="bg-white h-[60%] flex w-[20%] pl-[20px] gap-5 rounded-lg">
@@ -216,7 +216,7 @@ export default function Admin() {
                   </div>
                   <div className="flex justify-center flex-col">
                     <p>Total sales</p>
-                    <p>$2456</p>
+                    <p>$9999</p>
                   </div>
                 </li>
               </ul>
@@ -242,45 +242,6 @@ export default function Admin() {
                       </tr>
                     </thead>
                     <tbody>
-                      <tr>
-                        <td>Abcxyz123</td>
-                        <td>Abcxyz123</td>
-                        <td>Abcxyz123</td>
-                        <td className="flex gap-3">
-                          <button type="button" className="btn btn-danger">
-                            Danger
-                          </button>
-                          <button type="button" className="btn btn-warning">
-                            Warning
-                          </button>
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>Abcxyz123</td>
-                        <td>Abcxyz123</td>
-                        <td>Abcxyz123</td>
-                        <td>
-                          <button type="button" className="btn btn-danger">
-                            Danger
-                          </button>
-                          <button type="button" className="btn btn-warning">
-                            Warning
-                          </button>
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>Abcxyz123</td>
-                        <td>Abcxyz123</td>
-                        <td>Abcxyz123</td>
-                        <td>
-                          <button type="button" className="btn btn-danger">
-                            Danger
-                          </button>
-                          <button type="button" className="btn btn-warning">
-                            Warning
-                          </button>
-                        </td>
-                      </tr>
                       <tr>
                         <td>Abcxyz123</td>
                         <td>Abcxyz123</td>
